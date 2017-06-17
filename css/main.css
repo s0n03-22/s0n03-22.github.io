@@ -1,14 +1,12 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: #4d0099;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: white;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -16,21 +14,19 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: white;
+    color: #999;
 }
 a:hover {
     text-decoration: underline;
-    color: white;
 }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: white;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: white;
+    color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
